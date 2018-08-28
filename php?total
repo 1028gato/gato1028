@@ -1,0 +1,13 @@
+<?php 
+$rest = $_GET["t"];
+$part = explode("/", $rest);
+$name = $part[5];
+if (strpos($rest, '.ts') !== false) {
+$file = file_get_contents("http://vod.xxx.xxxxxxx.com:80/".$rest, 'r');
+$size = strlen($file);
+header ("Content-type: video/MP2T");
+header ("Content-Disposition: attachment; filename=".$name);
+header ("Content-Length: $size");
+print_r ($file);
+};
+?>
