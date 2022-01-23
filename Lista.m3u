@@ -1,4 +1,659 @@
+#EXTM3U
+#EXTINF:-1,ANIMAL PLANET
+http://190.108.93.62:8000/play/a017
+#EXTINF:-1,CANAL INFANTIL
+http://190.108.93.62:8000/play/a010
+#EXTINF:-1,CARTOONS
+http://190.108.93.62:8000/play/a008
+#EXTINF:-1,CINE CANAL
+http://190.108.93.62:8000/play/a00w
+#EXTINF:-1,CINE FAMILIAR
+http://190.108.93.62:8000/play/a00y
+#EXTINF:-1,CINE HISPANO
+http://190.108.93.62:8000/play/a011
+#EXTINF:-1,CINE PREMIUM
+http://190.108.93.62:8000/play/a00z
+#EXTINF:-1,COSMOS
+http://190.108.93.62:8000/play/a00a
+#EXTINF:-1,DHE
+http://190.108.93.62:8000/play/a00h
+#EXTINF:-1,DISCOVERY CHANNEL
+http://190.108.93.62:8000/play/a016
+#EXTINF:-1,DISCOVERY ID
+http://190.108.93.62:8000/play/a018
+#EXTINF:-1,DISCOVERY TURBO
+http://190.108.93.62:8000/play/a019
+#EXTINF:-1,DISNEY
+http://190.108.93.62:8000/play/a00u
+#EXTINF:-1,DISNEY JR
+http://190.108.93.62:8000/play/a00t
+#EXTINF:-1,ESPN
+http://190.108.93.62:8000/play/a00q
+#EXTINF:-1,ESPN 2
+http://190.108.93.62:8000/play/a00r
+#EXTINF:-1,ESPN 3
+http://190.108.93.62:8000/play/a00s
+#EXTINF:-1,FOOD NETWORK
+http://190.108.93.62:8000/play/a01a
+#EXTINF:-1,FOX SPORTS
+http://190.108.93.62:8000/play/a00o
+#EXTINF:-1,FOX SPORTS 2
+http://190.108.93.62:8000/play/a00f
+#EXTINF:-1,FOX SPORTS 3
+http://190.108.93.62:8000/play/a00p
+#EXTINF:-1,FXM
+http://190.108.93.62:8000/play/a00x
+#EXTINF:-1,GLOBAL
+http://190.108.93.62:8000/play/a013
+#EXTINF:-1,H&H
+http://190.108.93.62:8000/play/a01b
+#EXTINF:-1,HISTORY
+http://190.108.93.62:8000/play/a015
+#EXTINF:-1,INTI
+http://190.108.93.62:8000/play/a00v
+#EXTINF:-1,ITV
+http://190.108.93.62:8000/play/a003
+#EXTINF:-1,KUMBIA
+http://190.108.93.62:8000/play/a007
+#EXTINF:-1,LATINA
+http://190.108.93.62:8000/play/a014
+#EXTINF:-1,MOVIES CLUB
+http://190.108.93.62:8000/play/a002
+#EXTINF:-1,OLD CITY
+http://190.108.93.62:8000/play/a00i
+#EXTINF:-1,PANAMERICANA
+http://190.108.93.62:8000/play/a012
+#EXTINF:-1,RAYMI
+http://190.108.93.62:8000/play/a006
+#EXTINF:-1,RETRO
+http://190.108.93.62:8000/play/a001
+#EXTINF:-1,SERIES CLUB
+http://190.108.93.62:8000/play/a009
+#EXTINF:-1,TELENOVELAS
+http://190.108.93.62:8000/play/a00e
+#EXTINF:-1,UCI
+http://190.108.93.62:8000/play/a005
+#EXTINF:-1,WILLAX
+http://190.108.93.62:8000/play/a004
+#EXTINF:-1,ZEE MUNDO
+http://190.108.93.62:8000/play/a01c
 
+#EXTM3U
+#EXTINF:-1,7-Teletica
+http://190.61.102.67:2000/play/a0f9
+#EXTINF:-1,A&E
+http://190.61.102.67:2000/play/a0aa
+#EXTINF:-1,A&E HD
+http://190.61.102.67:2000/play/a0do
+#EXTINF:-1,AMC
+http://190.61.102.67:2000/play/a097
+#EXTINF:-1,AMC HD
+http://190.61.102.67:2000/play/a0dp
+#EXTINF:-1,AXN HD
+http://190.61.102.67:2000/play/a0ek
+#EXTINF:-1,AZ click HD
+http://190.61.102.67:2000/play/a0dv
+#EXTINF:-1,Animal Planet
+http://190.61.102.67:2000/play/a0ad
+#EXTINF:-1,Animal Planet HD
+http://190.61.102.67:2000/play/a0dl
+#EXTINF:-1,Atres Series
+http://190.61.102.67:2000/play/a0fk
+#EXTINF:-1,Azcorazon
+http://190.61.102.67:2000/play/a08w
+#EXTINF:-1,Azmundo
+http://190.61.102.67:2000/play/a0a6
+#EXTINF:-1,BBC World
+http://190.61.102.67:2000/play/a0bi
+#EXTINF:-1,Baby TV
+http://190.61.102.67:2000/play/a0ex
+#EXTINF:-1,Boomerang
+http://190.61.102.67:2000/play/a08q
+#EXTINF:-1,CARTOON NT HD
+http://190.61.102.67:2000/play/a0e5
+#EXTINF:-1,CINECANAL HD
+http://190.61.102.67:2000/play/a0ei
+#EXTINF:-1,CNN Internacional
+http://190.61.102.67:2000/play/a0fn
+#EXTINF:-1,CNNE
+http://190.61.102.67:2000/play/a0f7
+#EXTINF:-1,CTV CANAL 2
+http://190.61.102.67:2000/play/a0id
+#EXTINF:-1,Canal 11 - GUA
+http://190.61.102.67:2000/play/a05l
+#EXTINF:-1,Canal 13-GUA E1
+http://190.61.102.67:2000/play/a05k
+#EXTINF:-1,Canal 3 - GUA
+http://190.61.102.67:2000/play/a0a3
+#EXTINF:-1,Canal 7 - GUA
+http://190.61.102.67:2000/play/a0a2
+#EXTINF:-1,Canal Antigua - GUA
+http://190.61.102.67:2000/play/a0a0
+#EXTINF:-1,Canal Azteca - GUA
+http://190.61.102.67:2000/play/a0a1
+#EXTINF:-1,Canal Guatevision
+http://190.61.102.67:2000/play/a05i
+#EXTINF:-1,Canal del Congreso
+http://190.61.102.67:2000/play/a0bd
+#EXTINF:-1,CineMax
+http://190.61.102.67:2000/play/a0b1
+#EXTINF:-1,Claro Cinema
+http://190.61.102.67:2000/play/a0fx
+#EXTINF:-1,Claro Musica
+http://190.61.102.67:2000/play/a0cl
+#EXTINF:-1,Claro Sports HD
+http://190.61.102.67:2000/play/a0e3
+#EXTINF:-1,Comedy Central HD
+http://190.61.102.67:2000/play/a0da
+#EXTINF:-1,Concert Channel
+http://190.61.102.67:2000/play/a0aw
+#EXTINF:-1,DHE HD
+http://190.61.102.67:2000/play/a0du
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://190.61.102.67:2000/play/a0d7
+#EXTINF:-1,Discovery Channel
+http://190.61.102.67:2000/play/a0ac
+#EXTINF:-1,Discovery Channel HD
+http://190.61.102.67:2000/play/a0gi
+#EXTINF:-1,Discovery Civilization
+http://190.61.102.67:2000/play/a0gp
+#EXTINF:-1,Discovery ID HD
+http://190.61.102.67:2000/play/a0gn
+#EXTINF:-1,Discovery Kids HD
+http://190.61.102.67:2000/play/a0gj
+#EXTINF:-1,Discovery Science
+http://190.61.102.67:2000/play/a0gq
+#EXTINF:-1,Discovery Turbo
+http://190.61.102.67:2000/play/a0fe
+#EXTINF:-1,Disney CHANNEL
+http://190.61.102.67:2000/play/a0ao
+#EXTINF:-1,ESPN 3 HD
+http://190.61.102.67:2000/play/a0gc
+#EXTINF:-1,El Gourmet
+http://190.61.102.67:2000/play/a0f0
+#EXTINF:-1,FOX Sports 2
+http://190.61.102.67:2000/play/a09o
+#EXTINF:-1,FUTV HD CR
+http://190.61.102.67:2000/play/a0gr
+#EXTINF:-1,France24
+http://190.61.102.67:2000/play/a09a
+#EXTINF:-1,Golden
+http://190.61.102.67:2000/play/a0h2
+#EXTINF:-1,History HD
+http://190.61.102.67:2000/play/a0ec
+#EXTINF:-1,ID
+http://190.61.102.67:2000/play/a0as
+#EXTINF:-1,LIFE TIME
+http://190.61.102.67:2000/play/a091
+#EXTINF:-1,La voz de Maria
+http://190.61.102.67:2000/play/a0ff
+#EXTINF:-1,MASTV ROATAN
+http://190.61.102.67:2000/play/a0bs
+#EXTINF:-1,MTV 80s
+http://190.61.102.67:2000/play/a094
+#EXTINF:-1,MTV E2
+http://190.61.102.67:2000/play/a0av
+#EXTINF:-1,MTV Hits
+http://190.61.102.67:2000/play/a093
+#EXTINF:-1,Mas Chic
+http://190.61.102.67:2000/play/a0ey
+#EXTINF:-1,Nat Geo Kids
+http://190.61.102.67:2000/play/a09g
+#EXTINF:-1,Nick Jr
+http://190.61.102.67:2000/play/a0gt
+#EXTINF:-1,Nick SIM HD
+http://190.61.102.67:2000/play/a0d4
+#EXTINF:-1,Pasiones HD
+http://190.61.102.67:2000/play/a0g1
+#EXTINF:-1,Pentecostes Patzicia
+http://190.61.102.67:2000/play/a0ir
+#EXTINF:-1,RCN - GUA
+http://190.61.102.67:2000/play/a086
+#EXTINF:-1,RCN Novelas
+http://190.61.102.67:2000/play/a09i
+#EXTINF:-1,SEMILLITAS
+http://190.61.102.67:2000/play/a08t
+#EXTINF:-1,SPACE
+http://190.61.102.67:2000/play/a08x
+#EXTINF:-1,STAR CHANNEL
+http://190.61.102.67:2000/play/a0ap
+#EXTINF:-1,STAR LIFE
+http://190.61.102.67:2000/play/a08u
+#EXTINF:-1,Sembrador
+http://190.61.102.67:2000/play/a09w
+#EXTINF:-1,SyFy
+http://190.61.102.67:2000/play/a0ab
+#EXTINF:-1,TBN Enlace
+http://190.61.102.67:2000/play/a0bj
+#EXTINF:-1,TCM
+http://190.61.102.67:2000/play/a09s
+#EXTINF:-1,TD+HD CR
+http://190.61.102.67:2000/play/a0gs
+#EXTINF:-1,TVE
+http://190.61.102.67:2000/play/a0ak
+#EXTINF:-1,Telemundo
+http://190.61.102.67:2000/play/a08v
+#EXTINF:-1,Univision HD
+http://190.61.102.67:2000/play/a0gm
+#EXTINF:-1,VH1
+http://190.61.102.67:2000/play/a09q
+#EXTINF:-1,ZooMoo
+http://190.61.102.67:2000/play/a0fj
+10 personas reaccionaron
+
+
+#EXTM3U
+#EXTINF:-1,AE Mundo
+http://181.198.67.14:50000/play/a00x
+#EXTINF:-1,AXN (clone)
+http://181.198.67.14:50000/play/a08s
+#EXTINF:-1,Animal Planet
+http://181.198.67.14:50000/play/a00o
+#EXTINF:-1,CNN Chile
+http://181.198.67.14:50000/play/a01r
+#EXTINF:-1,CNN Espanol
+http://181.198.67.14:50000/play/a002
+#EXTINF:-1,Canal Claro
+http://181.198.67.14:50000/play/a024
+#EXTINF:-1,Canal Uno TV Ecu
+http://181.198.67.14:50000/play/a07i
+#EXTINF:-1,Canal de Las estrellas
+http://181.198.67.14:50000/play/a08m
+#EXTINF:-1,Capital TV
+http://181.198.67.14:50000/play/a023
+#EXTINF:-1,Cartoon Network
+http://181.198.67.14:50000/play/a01u
+#EXTINF:-1,Cinecanal
+http://181.198.67.14:50000/play/a01k
+#EXTINF:-1,Cinemax
+http://181.198.67.14:50000/play/a02n
+#EXTINF:-1,Claro Cinema
+http://181.198.67.14:50000/play/a02y
+#EXTINF:-1,ClaroSports
+http://181.198.67.14:50000/play/a01w
+#EXTINF:-1,Discovery Channel
+http://181.198.67.14:50000/play/a00n
+#EXTINF:-1,Discovery ID
+http://181.198.67.14:50000/play/a022
+#EXTINF:-1,Discovery Kids
+http://181.198.67.14:50000/play/a001
+#EXTINF:-1,Discovery Turbo
+http://181.198.67.14:50000/play/a030
+#EXTINF:-1,Disney Channel
+http://181.198.67.14:50000/play/a00m
+#EXTINF:-1,Disney Jr
+http://181.198.67.14:50000/play/a00i
+#EXTINF:-1,E Entertainment
+http://181.198.67.14:50000/play/a00q
+#EXTINF:-1,ESPN
+http://181.198.67.14:50000/play/a00s
+#EXTINF:-1,ESPN 2
+http://181.198.67.14:50000/play/a00t
+#EXTINF:-1,ESPN 2 CO
+http://181.198.67.14:50000/play/a07u
+#EXTINF:-1,ESPN 3
+http://181.198.67.14:50000/play/a032
+#EXTINF:-1,Ecuador TV
+http://181.198.67.14:50000/play/a02i
+#EXTINF:-1,Ecuavisa (clone)-fsef02
+http://181.198.67.14:50000/play/a08p
+#EXTINF:-1,Enlace
+http://181.198.67.14:50000/play/a01z
+#EXTINF:-1,EsneTV
+http://181.198.67.14:50000/play/a031
+#EXTINF:-1,FX
+http://181.198.67.14:50000/play/a02r
+#EXTINF:-1,FX Movies
+http://181.198.67.14:50000/play/a008
+#EXTINF:-1,Fox Channel
+http://181.198.67.14:50000/play/a01m
+#EXTINF:-1,Fox Life
+http://181.198.67.14:50000/play/a01q
+#EXTINF:-1,Fox Sport PY
+http://181.198.67.14:50000/play/a02d
+#EXTINF:-1,Fox Sports 2
+http://181.198.67.14:50000/play/a01c
+#EXTINF:-1,Fox Sports 3
+http://181.198.67.14:50000/play/a01d
+#EXTINF:-1,GOL TV
+http://181.198.67.14:50000/play/a00u
+#EXTINF:-1,GamaTV
+http://181.198.67.14:50000/play/a02j
+#EXTINF:-1,HBO
+http://181.198.67.14:50000/play/a02m
+#EXTINF:-1,HBO Family
+http://181.198.67.14:50000/play/a00h
+#EXTINF:-1,HBO Plus
+http://181.198.67.14:50000/play/a00f
+#EXTINF:-1,History Channel
+http://181.198.67.14:50000/play/a01j
+#EXTINF:-1,Home and Health
+http://181.198.67.14:50000/play/a026
+#EXTINF:-1,I-Sat
+http://181.198.67.14:50000/play/a01n
+#EXTINF:-1,MTV
+http://181.198.67.14:50000/play/a01o
+#EXTINF:-1,Max Prime
+http://181.198.67.14:50000/play/a00g
+#EXTINF:-1,Nat Geo
+http://181.198.67.14:50000/play/a01i
+#EXTINF:-1,NatGeo Kids
+http://181.198.67.14:50000/play/a01t
+#EXTINF:-1,Nick Jr
+http://181.198.67.14:50000/play/a02z
+#EXTINF:-1,Nickelodeon
+http://181.198.67.14:50000/play/a01g
+#EXTINF:-1,RCN Novelas
+http://181.198.67.14:50000/play/a021
+#EXTINF:-1,RTS
+http://181.198.67.14:50000/play/a08n
+#EXTINF:-1,Sony
+http://181.198.67.14:50000/play/a02o
+#EXTINF:-1,Space
+http://181.198.67.14:50000/play/a02q
+#EXTINF:-1,TBS
+http://181.198.67.14:50000/play/a025
+#EXTINF:-1,TC Television
+http://181.198.67.14:50000/play/a07k
+#EXTINF:-1,TNT
+http://181.198.67.14:50000/play/a01v
+#EXTINF:-1,TVE
+http://181.198.67.14:50000/play/a020
+#EXTINF:-1,Teleamazonas
+http://181.198.67.14:50000/play/a07o
+#EXTINF:-1,Teleamazonas (clone)-fsef01
+http://181.198.67.14:50000/play/a08q
+#EXTINF:-1,Telemundo
+http://181.198.67.14:50000/play/a01e
+#EXTINF:-1,Travel and Living
+http://181.198.67.14:50000/play/a019
+#EXTINF:-1,TyC Sports
+http://181.198.67.14:50000/play/a00v
+#EXTINF:-1,Universal
+http://181.198.67.14:50000/play/a01l
+#EXTINF:-1,Warner
+http://181.198.67.14:50000/play/a00p
+
+#EXTM3U
+
+#EXTINF:-1,AE Mundo
+http://200.24.159.179:8500/play/a01i
+#EXTINF:-1,AXN
+http://200.24.159.179:8500/play/a02y
+#EXTINF:-1,CNN Espanol
+http://200.24.159.179:8500/play/a00n
+#EXTINF:-1,Canal Estrellas
+http://200.24.159.179:8500/play/a01m
+#EXTINF:-1,Canal Uno TV Ecu
+http://200.24.159.179:8500/play/a02b
+#EXTINF:-1,Cartoon Network
+http://200.24.159.179:8500/play/a00f
+#EXTINF:-1,Cinecanal
+http://200.24.159.179:8500/play/a005
+#EXTINF:-1,Cinemax
+http://200.24.159.179:8500/play/a02w
+#EXTINF:-1,Discovery Channel
+http://200.24.159.179:8500/play/a018
+#EXTINF:-1,Discovery Kids
+http://200.24.159.179:8500/play/a00m
+#EXTINF:-1,Discovery Turbo
+http://200.24.159.179:8500/play/a039
+#EXTINF:-1,Disney Channel
+http://200.24.159.179:8500/play/a017
+#EXTINF:-1,Disney Jr
+http://200.24.159.179:8500/play/a013
+#EXTINF:-1,Disney 😆
+http://200.24.159.179:8500/play/a002
+#EXTINF:-1,E Entertainment
+http://200.24.159.179:8500/play/a01b
+#EXTINF:-1,ESPN
+http://200.24.159.179:8500/play/a01e
+#EXTINF:-1,ESPN 2
+http://200.24.159.179:8500/play/a015
+#EXTINF:-1,ESPN 3
+http://200.24.159.179:8500/play/a03b
+#EXTINF:-1,Ecuador TV
+http://200.24.159.179:8500/play/a026
+#EXTINF:-1,Ecuavisa
+http://200.24.159.179:8500/play/a02g
+#EXTINF:-1,Esne TV
+http://200.24.159.179:8500/play/a03a
+#EXTINF:-1,FX
+http://200.24.159.179:8500/play/a030
+#EXTINF:-1,FXM
+http://200.24.159.179:8500/play/a00t
+#EXTINF:-1,Fox Sports 1
+http://200.24.159.179:8500/play/a021
+#EXTINF:-1,Fox Sports 2
+http://200.24.159.179:8500/play/a01n
+#EXTINF:-1,Fox Sports 3
+http://200.24.159.179:8500/play/a01o
+#EXTINF:-1,GamaTV
+http://200.24.159.179:8500/play/a027
+#EXTINF:-1,HBO
+http://200.24.159.179:8500/play/a02v
+#EXTINF:-1,HBO 2
+http://200.24.159.179:8500/play/a00z
+#EXTINF:-1,HBO Family
+http://200.24.159.179:8500/play/a012
+#EXTINF:-1,HBO Plus
+http://200.24.159.179:8500/play/a010
+#EXTINF:-1,HBO XTREME SD
+http://200.24.159.179:8500/play/a011
+#EXTINF:-1,History Channel
+http://200.24.159.179:8500/play/a004
+#EXTINF:-1,HomeandHealth
+http://200.24.159.179:8500/play/a01w
+#EXTINF:-1,I-Sat
+http://200.24.159.179:8500/play/a007
+#EXTINF:-1,MTV
+http://200.24.159.179:8500/play/a008
+#EXTINF:-1,Nat Geo
+http://200.24.159.179:8500/play/a003
+#EXTINF:-1,NatGeo Kids
+http://200.24.159.179:8500/play/a00e
+#EXTINF:-1,Nick Jr
+http://200.24.159.179:8500/play/a038
+#EXTINF:-1,Nickelodeon
+http://200.24.159.179:8500/play/a001
+#EXTINF:-1,RTS
+http://200.24.159.179:8500/play/a034
+#EXTINF:-1,STAR CHANNEL
+http://200.24.159.179:8500/play/a00c
+#EXTINF:-1,Space
+http://200.24.159.179:8500/play/a02z
+#EXTINF:-1,TC Television
+http://200.24.159.179:8500/play/a02d
+#EXTINF:-1,TNT
+http://200.24.159.179:8500/play/a00g
+#EXTINF:-1,TV+ HD
+http://200.24.159.179:8500/play/a03h
+#EXTINF:-1,Teleamazonas
+http://200.24.159.179:8500/play/a02h
+#EXTINF:-1,Warner
+http://200.24.159.179:8500/play/a01a
+
+#EXTM3U
+#EXTINF:-1 tvg-id="b45d9d780a1bba2de6bd229c53a6c522",26TV
+http://168.197.196.98:8000/play/a01e
+#EXTINF:-1 tvg-id="1c851b1d892b9db58a53fd65d357ac99",A&E HD
+http://168.197.196.98:8000/play/a01f
+#EXTINF:-1 tvg-id="f9f0ffa36775c81e2ef08fccbe45f442",A24
+http://168.197.196.98:8000/play/a01g
+#EXTINF:-1 tvg-id="16d06eb9238eb50d361f9b7b01625c13",AMC
+http://168.197.196.98:8000/play/a01h
+#EXTINF:-1 tvg-id="ae32c72eda1e0d8a4204ac268bcb4f2b",AXN HD
+http://168.197.196.98:8000/play/a01j
+#EXTINF:-1 tvg-id="d08a83968ef85780ace7b8038d30153a",America TV HD
+http://168.197.196.98:8000/play/a01i
+#EXTINF:-1 tvg-id="699d55e696178569801bac736e86bfc5",Baby TV
+http://168.197.196.98:8000/play/a01k
+#EXTINF:-1 tvg-id="2057910a85234edc6819f664b35855fe",C5N
+http://168.197.196.98:8000/play/a01l
+#EXTINF:-1 tvg-id="59d3965848fa7f4d7b85ca1c903922e5",CNN en Espaæol
+http://168.197.196.98:8000/play/a01s
+#EXTINF:-1 tvg-id="69ae8e00c9e0a9647babfde65bec567f",Canal de la Ciudad
+http://168.197.196.98:8000/play/a01m
+#EXTINF:-1 tvg-id="37e84b1f530a18b9e90b5f3d4ab8d854",Cartoon Network HD
+http://168.197.196.98:8000/play/a01n
+#EXTINF:-1 tvg-id="795202ffba810d4340192c5bdd374ca3",Cine.AR
+http://168.197.196.98:8000/play/a01o
+#EXTINF:-1 tvg-id="d14e85234e2be436ec65f8d56f081d7f",Cinecanal HD
+http://168.197.196.98:8000/play/a01p
+#EXTINF:-1 tvg-id="f95cc8b7fc25a8dd52a282a59cc71082",Cinemax
+http://168.197.196.98:8000/play/a01q
+#EXTINF:-1 tvg-id="6acfadc1349986b64f2646619b3297cd",Crðnica
+http://168.197.196.98:8000/play/a01t
+#EXTINF:-1 tvg-id="79aa82c0f5e46d9c3cc4c2a296f86126",DeporTV
+http://168.197.196.98:8000/play/a01u
+#EXTINF:-1 tvg-id="fd183728fe55cedd5ca3d787d47dc59a",Discovery Channel HD
+http://168.197.196.98:8000/play/a01v
+#EXTINF:-1 tvg-id="ab2b9e33cbf19196f296b22f595895fc",Discovery H&H HD
+http://168.197.196.98:8000/play/a01w
+#EXTINF:-1 tvg-id="f8f419f8f24d59b6a42dcb9a860d485c",Discovery Kids
+http://168.197.196.98:8000/play/a01x
+#EXTINF:-1 tvg-id="30337e492737dc6af5327e82373df969",Discovery Science
+http://168.197.196.98:8000/play/a01y
+#EXTINF:-1 tvg-id="8d7e2e14faa3f35236d82f0890f750f7",Discovery Theater HD
+http://168.197.196.98:8000/play/a01z
+#EXTINF:-1 tvg-id="b535a5759bea71407bf972f4dae38ff7",Discovery Turbo
+http://168.197.196.98:8000/play/a020
+#EXTINF:-1 tvg-id="4102a1a9b8f77d6a642c4bc6fb58308b",Discovery World HD
+http://168.197.196.98:8000/play/a021
+#EXTINF:-1 tvg-id="a25b0279dc2465bf1893df14961f8765",Disney Channel HD
+http://168.197.196.98:8000/play/a022
+#EXTINF:-1 tvg-id="4d88dfbd897a7f40b15a47568e94a1e2",Disney Junior
+http://168.197.196.98:8000/play/a023
+#EXTINF:-1 tvg-id="554261f70833e92140218636070eebe1",Disney 😆
+http://168.197.196.98:8000/play/a024
+#EXTINF:-1 tvg-id="718a7039a10e39f8fdfb5c8c86f706fa",E! Entertainment
+http://168.197.196.98:8000/play/a025
+#EXTINF:-1 tvg-id="5e9ea649e54273786456d2cb2d80796a",ESPN 2 HD
+http://168.197.196.98:8000/play/a02b
+#EXTINF:-1 tvg-id="57ef787f9ea34287dff11bfd5f3f813e",ESPN 3 HD
+http://168.197.196.98:8000/play/a02c
+#EXTINF:-1 tvg-id="f9691756b8cb186a67514b5d661b47e2",ESPN Extra HD
+http://168.197.196.98:8000/play/a02d
+#EXTINF:-1 tvg-id="313cd60a7141fbbb46353ab67e8743a4",ESPN HD
+http://168.197.196.98:8000/play/a02e
+#EXTINF:-1 tvg-id="79f56f1aee5a5cf3d6f14e0446d35cc1",El Canal de las Estrellas
+http://168.197.196.98:8000/play/a026
+#EXTINF:-1 tvg-id="91f42a00c1b320c9c06b10697b2744f8",El Gourmet
+http://168.197.196.98:8000/play/a027
+#EXTINF:-1 tvg-id="c20a20041b1e2a7c63567247b5b4ddd6",Encuentro
+http://168.197.196.98:8000/play/a02a
+#EXTINF:-1 tvg-id="bef1919f403b72563557192b96aeceaf",FX HD
+http://168.197.196.98:8000/play/a02k
+#EXTINF:-1 tvg-id="28decc0a65e359c66051e681ea3b01dc",FX Movies HD
+http://168.197.196.98:8000/play/a02l
+#EXTINF:-1 tvg-id="be9a4913c9f4df43d789b4716366d223",Film & Arts HD
+http://168.197.196.98:8000/play/a02f
+#EXTINF:-1 tvg-id="b82f71cb463bc067217a0e5e965b921c",Fox Sports 2 HD
+http://168.197.196.98:8000/play/a02g
+#EXTINF:-1 tvg-id="779f0524fed0ea20e79b196b4780a394",Fox Sports 3 HD
+http://168.197.196.98:8000/play/a02h
+#EXTINF:-1 tvg-id="3ca73c856e236f02927e0975b6120382",Fox Sports HD
+http://168.197.196.98:8000/play/a02i
+#EXTINF:-1 tvg-id="185bb466bf58e92f29e31216ef8ffc29",Fox Sports Premium HD
+http://168.197.196.98:8000/play/a02j
+#EXTINF:-1 tvg-id="03fd30760957d315947c41d1ffd0106b",Galicia TV
+http://168.197.196.98:8000/play/a02m
+#EXTINF:-1 tvg-id="afed2b3c0d111d2d4b810a35a2ce3b58",Glitz
+http://168.197.196.98:8000/play/a02n
+#EXTINF:-1 tvg-id="5f46eb91d5b30ef20449a64e5fc2b132",HBO
+http://168.197.196.98:8000/play/a02o
+#EXTINF:-1 tvg-id="f6a4ed914f90b4ec5885923caca4e4c5",HBO 2
+http://168.197.196.98:8000/play/a02p
+#EXTINF:-1 tvg-id="1e2282281f0306fad9889cf86e5c04e6",HBO Family
+http://168.197.196.98:8000/play/a02q
+#EXTINF:-1 tvg-id="c6396a0e57ad2d09195e2e65bb81337f",HBO Plus
+http://168.197.196.98:8000/play/a02r
+#EXTINF:-1 tvg-id="02b221544abbeb06a4344b7bd4a16bf5",HGTV
+http://168.197.196.98:8000/play/a02s
+#EXTINF:-1 tvg-id="e91e8d83c3b0ac567ddcd2dd64ca44b9",HTV
+http://168.197.196.98:8000/play/a02v
+#EXTINF:-1 tvg-id="6cae86f11e16c2f7abb8a87fe96fd62d",History 2
+http://168.197.196.98:8000/play/a02t
+#EXTINF:-1 tvg-id="b2d2c8edf7ffb732301a2d2bcf995347",History Channel
+http://168.197.196.98:8000/play/a02u
+#EXTINF:-1 tvg-id="86e612d41ee06fe2a52058f1cf6151d8",I-Sat
+http://168.197.196.98:8000/play/a02w
+#EXTINF:-1 tvg-id="db4bff406393d85cc8ddcb1ab27829b9",La Nacion TV
+http://168.197.196.98:8000/play/a02x
+#EXTINF:-1 tvg-id="c1c344e947dfd8ab2d8e52020167e784",MTV
+http://168.197.196.98:8000/play/a02y
+#EXTINF:-1 tvg-id="af9075f507a039fbe23768ae304f2d17",Nat Geo HD
+http://168.197.196.98:8000/play/a02z
+#EXTINF:-1 tvg-id="64c14637f5ecbd457016a85d3b559435",Nat Geo Kids
+http://168.197.196.98:8000/play/a030
+#EXTINF:-1 tvg-id="04475da6483d1b7edfb7116722dfd493",Natgeo Wild HD
+http://168.197.196.98:8000/play/a031
+#EXTINF:-1 tvg-id="3003c418717878b307ce8c01d193ad7b",Nickelodeon
+http://168.197.196.98:8000/play/a032
+#EXTINF:-1 tvg-id="f9a6c38e7549646dd3b63354ac5843ce",Pakapaka
+http://168.197.196.98:8000/play/a033
+#EXTINF:-1 tvg-id="1e64781bb3ecb1c30ceea18373de3a28",Quiero Musica
+http://168.197.196.98:8000/play/a034
+#EXTINF:-1 tvg-id="516fe0776b87e85b1022ac0fea9cd2e2",Rural
+http://168.197.196.98:8000/play/a035
+#EXTINF:-1 tvg-id="644e334eaf37b23724b2836fa358b16a",Somos
+http://168.197.196.98:8000/play/a036
+#EXTINF:-1 tvg-id="e95d0be1c4f5a0a09933be947284f837",Sony HD
+http://168.197.196.98:8000/play/a037
+#EXTINF:-1 tvg-id="b77bf54a08387dc2a7fb474ac4815c29",Space HD
+http://168.197.196.98:8000/play/a038
+#EXTINF:-1 tvg-id="b25dd4272d4df7e4799f479ada9ceeee",Star Action HD
+http://168.197.196.98:8000/play/a039
+#EXTINF:-1 tvg-id="c2dd16b05ef114f732b24a1ead129112",Star Channel HD
+http://168.197.196.98:8000/play/a03a
+#EXTINF:-1 tvg-id="82ce2467037fc2b05f45b5631119fad2",Star Classics
+http://168.197.196.98:8000/play/a03b
+#EXTINF:-1 tvg-id="69f11557cb16c79dceac755237a9e5b6",Star Fun
+http://168.197.196.98:8000/play/a03c
+#EXTINF:-1 tvg-id="a8e4613012b11c779481ff20a98a7fa7",Star Hits
+http://168.197.196.98:8000/play/a03d
+#EXTINF:-1 tvg-id="3df82234ca1dfafe2085e1ddba7df93f",Star Life
+http://168.197.196.98:8000/play/a03e
+#EXTINF:-1 tvg-id="541f17f77f38efe2cd9f726fce98cdf9",Star Series
+http://168.197.196.98:8000/play/a03f
+#EXTINF:-1 tvg-id="ed5bb10e6286ddf0a8edf0dedf812a0e",Studio Universal
+http://168.197.196.98:8000/play/a03g
+#EXTINF:-1 tvg-id="98f99f8f7a5dd7d9d00d6dcadf22e207",SyFy
+http://168.197.196.98:8000/play/a03h
+#EXTINF:-1 tvg-id="65dd65cb8d61399b84765c3781fa93f8",TBS
+http://168.197.196.98:8000/play/a03i
+#EXTINF:-1 tvg-id="716037ab01d34d9e2e2179247330aebb",TCM
+http://168.197.196.98:8000/play/a03j
+#EXTINF:-1 tvg-id="c17e2d5f0028b683dc88a124fab00aaa",TN HD
+http://168.197.196.98:8000/play/a03l
+#EXTINF:-1 tvg-id="8b1a944c2c2cdb8d70ceaa06840a770d",TNT HD
+http://168.197.196.98:8000/play/a03m
+#EXTINF:-1 tvg-id="22247267916a329c1fe149bb0019bf22",TNT Series HD
+http://168.197.196.98:8000/play/a03n
+#EXTINF:-1 tvg-id="0c93f8c60c4205e5cd9617d138210e40",TNT Sports HD
+http://168.197.196.98:8000/play/a03o
+#EXTINF:-1 tvg-id="8a9d1ea7532cd485fc07a3bf21aef640",TV Publica HD
+http://168.197.196.98:8000/play/a03q
+#EXTINF:-1 tvg-id="3e03213831ef331b871e557db364c0b0",TVE
+http://168.197.196.98:8000/play/a03r
+#EXTINF:-1 tvg-id="cdb3b4d27ab16975a04d6298a1f278a4",Telefe HD
+http://168.197.196.98:8000/play/a03k
+#EXTINF:-1 tvg-id="7cd96439853548fd1810e48a7985e368",TruTV HD
+http://168.197.196.98:8000/play/a03p
+#EXTINF:-1 tvg-id="9910cd8b4253e7b881ff95c8bfac3cc6",TyC Sports HD
+http://168.197.196.98:8000/play/a03s
+#EXTINF:-1 tvg-id="20e58ffe06a561c9c2e0b51966de1bcc",Universal HD
+http://168.197.196.98:8000/play/a03t
+#EXTINF:-1 tvg-id="1ef94f2992ce99c6caf8222b1f098e54",Volver
+http://168.197.196.98:8000/play/a03u
+#EXTINF:-1 tvg-id="ad04236ded5fc839b51c1871cfb4570d",Warner Channel HD
+http://168.197.196.98:8000/play/a03w
+#EXTINF:-1 tvg-id="3f2a174d506a77f763ae6df9595f6435",ciudad magazine
+http://168.197.196.98:8000/play/a01r
+#EXTINF:-1 tvg-id="68ab227dc1996d8d94c523737828b2b3",el nueve HD
+http://168.197.196.98:8000/play/a028
+#EXTINF:-1 tvg-id="10988869f644cd5241eeda29bee8f91a",el trece HD
+http://168.197.196.98:8000/play/a029
 #EXTINF:-1,A&E
 http://23.237.54.42/hls/A-AND-EMX.m3u8
 
@@ -259,1775 +914,3 @@ http://cdn.adultiptv.net/threesome.m3u8
 
 
 
-
-#EXTINF:-1,Morbido tv
-http://roedor.xyz/Sr_Regio/tp.php?c=140&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Az Clic
-http://roedor.xyz/Sr_Regio/tp.php?c=2298&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Az Clic
-http://roedor.xyz/Sr_Regio/tp.php?c=11&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Canal 2 HD 
-http://roedor.xyz/Sr_Regio/tp.php?c=17&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Foro TV
-http://roedor.xyz/Sr_Regio/tp.php?c=19&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Canal 5 HD 
-http://roedor.xyz/Sr_Regio/tp.php?c=20&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Azteca 7 HD
-http://roedor.xyz/Sr_Regio/tp.php?c=21&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Gala TV HD
-http://roedor.xyz/Sr_Regio/tp.php?c=24&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,El trece HD 
-http://roedor.xyz/Sr_Regio/tp.php?c=27&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,TeleFórmula 
-http://roedor.xyz/Sr_Regio/tp.php?c=32&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Proyecto 40
-http://roedor.xyz/Sr_Regio/tp.php?c=40&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Multimedios Monterrey
-http://roedor.xyz/Sr_Regio/tp.php?c=1253&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Milenio TV
-http://roedor.xyz/Sr_Regio/tp.php?c=1252&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,
-http://roedor.xyz/Sr_Regio/tp.php?c=46&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Fox 
-http://roedor.xyz/Sr_Regio/tp.php?c=47&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Sony
-http://roedor.xyz/Sr_Regio/tp.php?c=48&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,BBC HD 
-http://roedor.xyz/Sr_Regio/tp.php?c=51&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Warner Channel
-http://roedor.xyz/Sr_Regio/tp.php?c=52&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,E! Entertainment Television
-http://roedor.xyz/Sr_Regio/tp.php?c=55&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,FX
-http://roedor.xyz/Sr_Regio/tp.php?c=56&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Universal Channel
-http://roedor.xyz/Sr_Regio/tp.php?c=57&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Universal HD 
-http://roedor.xyz/Sr_Regio/tp.php?c=58&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,SyFy
-http://roedor.xyz/Sr_Regio/tp.php?c=59&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,FX
-http://roedor.xyz/Sr_Regio/tp.php?c=60&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,A&E 
-http://roedor.xyz/Sr_Regio/tp.php?c=62&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,AXN
-http://roedor.xyz/Sr_Regio/tp.php?c=64&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Investigación Discovery 
-http://roedor.xyz/Sr_Regio/tp.php?c=68&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Az Corazón
-http://roedor.xyz/Sr_Regio/tp.php?c=70&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,TNT Series
-http://roedor.xyz/Sr_Regio/tp.php?c=71&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,El Gourmet
-http://roedor.xyz/Sr_Regio/tp.php?c=74&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Glitz
-http://roedor.xyz/Sr_Regio/tp.php?c=76&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Fox Life 
-http://roedor.xyz/Sr_Regio/tp.php?c=77&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Distrito Comedia
-http://roedor.xyz/Sr_Regio/tp.php?c=78&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,TruTV 
-http://roedor.xyz/Sr_Regio/tp.php?c=79&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,TBS 
-http://roedor.xyz/Sr_Regio/tp.php?c=81&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Tlnovelas
-http://roedor.xyz/Sr_Regio/tp.php?c=83&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Az Mundo
-http://roedor.xyz/Sr_Regio/tp.php?c=84&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Comedy Central 
-http://roedor.xyz/Sr_Regio/tp.php?c=340&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Unicable 
-http://roedor.xyz/Sr_Regio/tp.php?c=1499&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
- #EXTINF:-1,Discovery Channel
-http://roedor.xyz/Sr_Regio/tp.php?c=86&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,ANIMAL PLANET
-http://roedor.xyz/Sr_Regio/tp.php?c=88&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,History Channel 
-http://roedor.xyz/Sr_Regio/tp.php?c=89&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,NatGeo
-http://roedor.xyz/Sr_Regio/tp.php?c=91&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,NatGeo Wild
-http://roedor.xyz/Sr_Regio/tp.php?c=92&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Lifetime
-http://roedor.xyz/Sr_Regio/tp.php?c=94&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Discovery Theater HD
-http://roedor.xyz/Sr_Regio/tp.php?c=95&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Home and Health
-http://roedor.xyz/Sr_Regio/tp.php?c=96&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,TLC
-http://roedor.xyz/Sr_Regio/tp.php?c=97&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Discovery Science
-http://roedor.xyz/Sr_Regio/tp.php?c=98&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Discovery Civilization 
-http://roedor.xyz/Sr_Regio/tp.php?c=99&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Discovery Turbo
-http://roedor.xyz/Sr_Regio/tp.php?c=100&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Discovery World HD
-http://roedor.xyz/Sr_Regio/tp.php?c=101&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,WOBI TV
-http://roedor.xyz/Sr_Regio/tp.php?c=102&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Tooncast
-http://roedor.xyz/Sr_Regio/tp.php?c=108&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Discovery Kids
-http://roedor.xyz/Sr_Regio/tp.php?c=109&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Nick HD 
-http://roedor.xyz/Sr_Regio/tp.php?c=110&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Disney XD
-http://roedor.xyz/Sr_Regio/tp.php?c=111&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Disney Channel 
-http://roedor.xyz/Sr_Regio/tp.php?c=113&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,TIIN 
-http://roedor.xyz/Sr_Regio/tp.php?c=114&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Boomerang
-http://roedor.xyz/Sr_Regio/tp.php?c=115&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Nick Jr
-http://roedor.xyz/Sr_Regio/tp.php?c=117&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Disney Jr
-http://roedor.xyz/Sr_Regio/tp.php?c=118&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,CBeebies 
-http://roedor.xyz/Sr_Regio/tp.php?c=119&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Nicktoons
-http://roedor.xyz/Sr_Regio/tp.php?c=1708&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Nickelodeon (Nick)
-http://roedor.xyz/Sr_Regio/tp.php?c=331&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,De Película
-http://roedor.xyz/Sr_Regio/tp.php?c=121&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Golden
-http://roedor.xyz/Sr_Regio/tp.php?c=122&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Golden Edge
-http://roedor.xyz/Sr_Regio/tp.php?c=124&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,TNT
-http://roedor.xyz/Sr_Regio/tp.php?c=126&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,TNT
-http://roedor.xyz/Sr_Regio/tp.php?c=127&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,TMC 
-http://roedor.xyz/Sr_Regio/tp.php?c=128&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Space
-http://roedor.xyz/Sr_Regio/tp.php?c=129&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Space
-http://roedor.xyz/Sr_Regio/tp.php?c=130&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,AMC
-http://roedor.xyz/Sr_Regio/tp.php?c=131&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Studio Universal
-http://roedor.xyz/Sr_Regio/tp.php?c=132&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,I.Sat
-http://roedor.xyz/Sr_Regio/tp.php?c=135&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,The Film Zone HD 
-http://roedor.xyz/Sr_Regio/tp.php?c=138&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Fox Series
-http://roedor.xyz/Sr_Regio/tp.php?c=139&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Fox Movies 
-http://roedor.xyz/Sr_Regio/tp.php?c=146&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Fox Action HD 
-http://roedor.xyz/Sr_Regio/tp.php?c=336&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Fox Cinéma
-http://roedor.xyz/Sr_Regio/tp.php?c=1729&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Fox Classics 
-http://roedor.xyz/Sr_Regio/tp.php?c=1732&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Cinecanal HD
-http://roedor.xyz/Sr_Regio/tp.php?c=149&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Cinemax (W) 
-http://roedor.xyz/Sr_Regio/tp.php?c=158&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,TVE
-http://roedor.xyz/Sr_Regio/tp.php?c=198&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,VH1
-http://roedor.xyz/Sr_Regio/tp.php?c=334&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,MTV Live HD
-http://roedor.xyz/Sr_Regio/tp.php?c=211&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,MTV
-http://roedor.xyz/Sr_Regio/tp.php?c=212&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,MTV HITS 
-http://roedor.xyz/Sr_Regio/tp.php?c=213&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,1 CLASSICS
-http://roedor.xyz/Sr_Regio/tp.php?c=214&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Ritmoson Latino 
-http://roedor.xyz/Sr_Regio/tp.php?c=218&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Telehit HD
-http://roedor.xyz/Sr_Regio/tp.php?c=220&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Bandamax
-http://roedor.xyz/Sr_Regio/tp.php?c=221&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Az Clic
-http://roedor.xyz/Sr_Regio/tp.php?c=223&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,CADENA H
-http://roedor.xyz/Sr_Regio/tp.php?c=1706&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,ESPN +
-http://roedor.xyz/Sr_Regio/tp.php?c=167&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,ESPN
-http://roedor.xyz/Sr_Regio/tp.php?c=168&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,ESPN 2 
-http://roedor.xyz/Sr_Regio/tp.php?c=169&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Fox Sports
-http://roedor.xyz/Sr_Regio/tp.php?c=170&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Fox Sports 2
-http://roedor.xyz/Sr_Regio/tp.php?c=172&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,AyM Sports 
-http://roedor.xyz/Sr_Regio/tp.php?c=180&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,PX SPORTS
-http://roedor.xyz/Sr_Regio/tp.php?c=950&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,Formula 1 HD
-http://roedor.xyz/Sr_Regio/tp.php?c=1736&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
-#EXTINF:-1,GARAGE TV 
-http://roedor.xyz/Sr_Regio/tp.php?c=75&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
-
- 
- 
-#EXTINF:-1,TOTAL PLAY
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=2&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-FOTO TV
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=4&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,7
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=7&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AZ CLIC
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=11&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ESTRELLAS
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=17&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,FORO TV
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=19&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,CINCO
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=20&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AZTECA 7
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=21&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,GALA TV
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=24&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ONCE
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=25&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,27
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=27&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,RADIOFORMULA
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=32&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,38
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=38&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ADN 40
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=40&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,44
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=44&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,FOX
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=46&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,FOX
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=47&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,SONY
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=48&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,51
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=51&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,52
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=52&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,E
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=55&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,56
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=56&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,57
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=57&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,58
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=58&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,SYFY
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=59&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,FX
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=60&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AE
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=62&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AXN
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=64&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,unicable
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=66&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,68
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=68&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,69
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=69&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AZ CORAZON
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=70&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,TNT SERIES
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=71&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,74---
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=74&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,75--
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=75&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,GLITZ
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=76&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,FOX LIFE
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=77&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,78--
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=78&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,TRU TV
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=79&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,TBS
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=81&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,TL NOVELAS
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=83&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AZ MUNDO
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=84&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,86---
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=86&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ANIMAL PLANET
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=88&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,HISTORY
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=89&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,NATGEO
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=91&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,WILD
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=92&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,LIFETIME
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=94&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,THEATHER
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=95&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,HOME AND HEALTH
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=96&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,TLC
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=97&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,98---
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=98&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,civilization
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=99&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,D TURBO
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=100&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,D WORLD
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=101&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,WOBI
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=102&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-TOONCAST
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=108&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,109
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=109&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,110
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=110&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,111
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=111&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,112
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=112&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,113
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=113&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,114
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=114&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,115
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=115&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,117
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=117&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,118
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=118&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,119
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=119&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,121
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=121&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,122
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=122&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,123
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=123&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,124
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=124&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,126
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=126&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,127
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=127&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,128
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=128&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,129
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=129&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,130
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=130&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,131
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=131&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,132
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=132&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,135
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=135&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,138
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=138&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,139
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=139&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,146
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=146&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,149
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=149&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,158
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=158&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,167
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=167&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,168
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=168&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,169
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=169&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,170
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=170&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,171
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=171&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,172
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=172&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,173
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=173&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,178
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=178&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,179
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=179&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,180
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=180&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,184
-
-http://roedor.xyz/Sr_Regio/tp.php?c=184&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,198
-http://roedor.xyz/Sr_Regio/tp.php?c=198&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,211
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=211&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,212
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=212&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,213
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=213&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,214
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=214&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,217
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=217&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,218
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=218&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,220
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=220&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,221
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=221&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,223
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=223&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ONCE
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=281&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,SIETE
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=317&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,SIETE
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=322&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AMC
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=328&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,NICK
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=331&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,VH1
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=334&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,DE PELICULA
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=335&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,FOX ACTION
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=336&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,CINECANAL
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=337&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,340
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=340&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ESPN 3
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=345&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ADN 40
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=402&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AZ CLIC
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=403&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ADN 40
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=451&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AZ CORAZON
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=453&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AZTECA TRECE
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=649&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,LAS ESTRELLAS
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=651&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,699
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=699&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,FORO TV
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=700&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,TRECE
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=749&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AZTECA 7
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=849&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,PX SPORTS
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=950&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1252
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1252&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1253
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1253&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1499
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1499&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,BLOOMERANG
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1649&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,--
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1706&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,NICK TOONS
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1708&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,PARAMOUNT
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1726&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1729
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1729&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,FOX CLASSICS
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1732&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,HOLA TV
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1734&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1735
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1735&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,FORMULA 1
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1736&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1742
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1742&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,AZTECA 7
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1743&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1747
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1747&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1748
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1748&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1749
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1749&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1754
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1754&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1755
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1755&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1757
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1757&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1763
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1763&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1764
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1764&p=3&k=srregio&f=.m3u8?tvpremiumhd.com&
- 
-#EXTINF:-1,1765
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1765&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1766
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1766&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1768
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1768&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1769
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1769&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1771
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1771&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1772
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1772&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1777
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1777&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1778
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1778&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1779
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1779&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1780
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1780&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1781
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1781&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1782
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1782&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1783
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1783&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1784
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1784&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1785
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1785&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1786
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1786&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1787
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1787&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1788
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1788&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1789
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1789&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1791
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1791&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1792
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1792&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1793
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1793&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1794
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1794&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1795
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1795&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1796
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1796&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1797
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1797&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1798
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1798&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1821
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1821&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1822
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1822&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1823
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1823&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1824
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1824&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1832
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1832&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1833
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1833&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1834
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1834&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1835
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1835&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1836
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1836&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1838
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1838&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1840
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1840&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1842
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1842&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1869
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1869&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1870
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1870&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1871
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1871&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1873
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1873&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1888
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1888&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1889
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1889&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1890
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1890&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1891
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1891&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1892
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1892&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1893
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1893&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1894
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1894&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1895
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1895&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1897
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1897&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1898
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1898&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1899
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1899&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1900
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1900&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1901
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1901&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1902
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1902&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1903
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1903&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1907
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1907&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1910
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1910&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1911
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1911&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1912
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1912&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1913
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1913&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1917
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1917&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1918
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1918&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1919
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1919&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1920
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1920&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1921
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1921&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1922
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1922&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1923
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1923&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1927
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1927&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1929
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1929&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1931
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1931&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1932
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1932&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1933
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1933&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1934
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1934&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1935
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1935&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1942
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1942&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1944
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1944&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1945
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1945&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1946
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1946&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1947
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1947&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1948
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1948&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1950
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1950&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1952
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1952&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1957
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1957&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1958
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1958&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1959
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1959&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1960
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=1960&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1961
-http://roedor.xyz/Sr_Regio/tp.php?c=1961&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1962
-http://roedor.xyz/Sr_Regio/tp.php?c=1962&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1963
-http://roedor.xyz/Sr_Regio/tp.php?c=1963&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1964
-http://roedor.xyz/Sr_Regio/tp.php?c=1964&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1965
-http://roedor.xyz/Sr_Regio/tp.php?c=1965&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1966
-http://roedor.xyz/Sr_Regio/tp.php?c=1966&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1980
-http://roedor.xyz/Sr_Regio/tp.php?c=1980&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1981
-http://roedor.xyz/Sr_Regio/tp.php?c=1981&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1982
-http://roedor.xyz/Sr_Regio/tp.php?c=1982&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1984
-http://roedor.xyz/Sr_Regio/tp.php?c=1984&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1986
-http://roedor.xyz/Sr_Regio/tp.php?c=1986&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1994
-http://roedor.xyz/Sr_Regio/tp.php?c=1994&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,1995
-http://roedor.xyz/Sr_Regio/tp.php?c=1995&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2000
-http://roedor.xyz/Sr_Regio/tp.php?c=2000&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2001
-http://roedor.xyz/Sr_Regio/tp.php?c=2001&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2002
-http://roedor.xyz/Sr_Regio/tp.php?c=2002&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2003
-http://roedor.xyz/Sr_Regio/tp.php?c=2003&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2004
-http://roedor.xyz/Sr_Regio/tp.php?c=2004&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2005
-http://roedor.xyz/Sr_Regio/tp.php?c=2005&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2006
-http://roedor.xyz/Sr_Regio/tp.php?c=2006&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2007
-http://roedor.xyz/Sr_Regio/tp.php?c=2007&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2008
-http://roedor.xyz/Sr_Regio/tp.php?c=2008&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2010
-http://roedor.xyz/Sr_Regio/tp.php?c=2010&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2037
-http://roedor.xyz/Sr_Regio/tp.php?c=2037&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2038
-http://roedor.xyz/Sr_Regio/tp.php?c=2038&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2039
-http://roedor.xyz/Sr_Regio/tp.php?c=2039&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2040
-http://roedor.xyz/Sr_Regio/tp.php?c=2040&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2044
-http://roedor.xyz/Sr_Regio/tp.php?c=2044&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2045
-http://roedor.xyz/Sr_Regio/tp.php?c=2045&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2047
-http://roedor.xyz/Sr_Regio/tp.php?c=2047&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2048
-http://roedor.xyz/Sr_Regio/tp.php?c=2048&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2049
-http://roedor.xyz/Sr_Regio/tp.php?c=2049&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2050
-http://roedor.xyz/Sr_Regio/tp.php?c=2050&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2051
-http://roedor.xyz/Sr_Regio/tp.php?c=2051&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2056
-http://roedor.xyz/Sr_Regio/tp.php?c=2056&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2057
-http://roedor.xyz/Sr_Regio/tp.php?c=2057&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2058
-http://roedor.xyz/Sr_Regio/tp.php?c=2058&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2059
-http://roedor.xyz/Sr_Regio/tp.php?c=2059&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2060
-http://roedor.xyz/Sr_Regio/tp.php?c=2060&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2061
-http://roedor.xyz/Sr_Regio/tp.php?c=2061&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2062
-http://roedor.xyz/Sr_Regio/tp.php?c=2062&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2063
-http://roedor.xyz/Sr_Regio/tp.php?c=2063&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2064
-http://roedor.xyz/Sr_Regio/tp.php?c=2064&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2065
-http://roedor.xyz/Sr_Regio/tp.php?c=2065&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2066
-http://roedor.xyz/Sr_Regio/tp.php?c=2066&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2067
-http://roedor.xyz/Sr_Regio/tp.php?c=2067&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2085
-http://roedor.xyz/Sr_Regio/tp.php?c=2085&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2087
-http://roedor.xyz/Sr_Regio/tp.php?c=2087&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2092
-http://roedor.xyz/Sr_Regio/tp.php?c=2092&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2093
-http://roedor.xyz/Sr_Regio/tp.php?c=2093&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2094
-http://roedor.xyz/Sr_Regio/tp.php?c=2094&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2095
-http://roedor.xyz/Sr_Regio/tp.php?c=2095&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2096
-http://roedor.xyz/Sr_Regio/tp.php?c=2096&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2097
-http://roedor.xyz/Sr_Regio/tp.php?c=2097&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2098
-http://roedor.xyz/Sr_Regio/tp.php?c=2098&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2099
-http://roedor.xyz/Sr_Regio/tp.php?c=2099&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2100
-http://roedor.xyz/Sr_Regio/tp.php?c=2100&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2101
-http://roedor.xyz/Sr_Regio/tp.php?c=2101&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2105
-http://roedor.xyz/Sr_Regio/tp.php?c=2105&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2106
-http://roedor.xyz/Sr_Regio/tp.php?c=2106&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2107
-http://roedor.xyz/Sr_Regio/tp.php?c=2107&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2113
-http://roedor.xyz/Sr_Regio/tp.php?c=2113&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2125
-http://roedor.xyz/Sr_Regio/tp.php?c=2125&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2130
-http://roedor.xyz/Sr_Regio/tp.php?c=2130&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2136
-http://roedor.xyz/Sr_Regio/tp.php?c=2136&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2139
-http://roedor.xyz/Sr_Regio/tp.php?c=2139&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2145
-http://roedor.xyz/Sr_Regio/tp.php?c=2145&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2147
-http://roedor.xyz/Sr_Regio/tp.php?c=2147&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2148
-http://roedor.xyz/Sr_Regio/tp.php?c=2148&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2156
-http://roedor.xyz/Sr_Regio/tp.php?c=2156&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2157
-http://roedor.xyz/Sr_Regio/tp.php?c=2157&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2159
-http://roedor.xyz/Sr_Regio/tp.php?c=2159&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2167
-http://roedor.xyz/Sr_Regio/tp.php?c=2167&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2168
-http://roedor.xyz/Sr_Regio/tp.php?c=2168&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2169
-http://roedor.xyz/Sr_Regio/tp.php?c=2169&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2171
-http://roedor.xyz/Sr_Regio/tp.php?c=2171&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2172
-http://roedor.xyz/Sr_Regio/tp.php?c=2172&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2173
-http://roedor.xyz/Sr_Regio/tp.php?c=2173&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2174
-http://roedor.xyz/Sr_Regio/tp.php?c=2174&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2175
-http://roedor.xyz/Sr_Regio/tp.php?c=2175&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2176
-http://roedor.xyz/Sr_Regio/tp.php?c=2176&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2177
-http://roedor.xyz/Sr_Regio/tp.php?c=2177&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2178
-http://roedor.xyz/Sr_Regio/tp.php?c=2178&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2179
-http://roedor.xyz/Sr_Regio/tp.php?c=2179&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2180
-http://roedor.xyz/Sr_Regio/tp.php?c=2180&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2181
-http://roedor.xyz/Sr_Regio/tp.php?c=2181&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2182
-http://roedor.xyz/Sr_Regio/tp.php?c=2182&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2183
-http://roedor.xyz/Sr_Regio/tp.php?c=2183&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2184
-http://roedor.xyz/Sr_Regio/tp.php?c=2184&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2185
-http://roedor.xyz/Sr_Regio/tp.php?c=2185&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2186
-http://roedor.xyz/Sr_Regio/tp.php?c=2186&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2187
-http://roedor.xyz/Sr_Regio/tp.php?c=2187&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2188
-http://roedor.xyz/Sr_Regio/tp.php?c=2188&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2189
-http://roedor.xyz/Sr_Regio/tp.php?c=2189&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2190
-http://roedor.xyz/Sr_Regio/tp.php?c=2190&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2191
-http://roedor.xyz/Sr_Regio/tp.php?c=2191&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2192
-http://roedor.xyz/Sr_Regio/tp.php?c=2192&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2193
-http://roedor.xyz/Sr_Regio/tp.php?c=2193&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2194
-http://roedor.xyz/Sr_Regio/tp.php?c=2194&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2195
-http://roedor.xyz/Sr_Regio/tp.php?c=2195&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2196
-http://roedor.xyz/Sr_Regio/tp.php?c=2196&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2197
-http://roedor.xyz/Sr_Regio/tp.php?c=2197&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2198
-http://roedor.xyz/Sr_Regio/tp.php?c=2198&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2199
-http://roedor.xyz/Sr_Regio/tp.php?c=2199&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2200
-http://roedor.xyz/Sr_Regio/tp.php?c=2200&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2201
-http://roedor.xyz/Sr_Regio/tp.php?c=2201&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2202
-http://roedor.xyz/Sr_Regio/tp.php?c=2202&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2203
-http://roedor.xyz/Sr_Regio/tp.php?c=2203&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2204
-http://roedor.xyz/Sr_Regio/tp.php?c=2204&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2205
-http://roedor.xyz/Sr_Regio/tp.php?c=2205&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2206
-http://roedor.xyz/Sr_Regio/tp.php?c=2206&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2214
-http://roedor.xyz/Sr_Regio/tp.php?c=2214&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2215
-http://roedor.xyz/Sr_Regio/tp.php?c=2215&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2217
-http://roedor.xyz/Sr_Regio/tp.php?c=2217&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2218
-http://roedor.xyz/Sr_Regio/tp.php?c=2218&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2220
-http://roedor.xyz/Sr_Regio/tp.php?c=2220&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2221
-http://roedor.xyz/Sr_Regio/tp.php?c=2221&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2223
-http://roedor.xyz/Sr_Regio/tp.php?c=2223&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2224
-http://roedor.xyz/Sr_Regio/tp.php?c=2224&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2225
-http://roedor.xyz/Sr_Regio/tp.php?c=2225&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2226
-http://roedor.xyz/Sr_Regio/tp.php?c=2226&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2227
-http://roedor.xyz/Sr_Regio/tp.php?c=2227&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2229
-http://roedor.xyz/Sr_Regio/tp.php?c=2229&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2230
-http://roedor.xyz/Sr_Regio/tp.php?c=2230&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2231
-http://roedor.xyz/Sr_Regio/tp.php?c=2231&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2237
-http://roedor.xyz/Sr_Regio/tp.php?c=2237&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2238
-http://roedor.xyz/Sr_Regio/tp.php?c=2238&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2240
-http://roedor.xyz/Sr_Regio/tp.php?c=2240&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2241
-http://roedor.xyz/Sr_Regio/tp.php?c=2241&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2242
-http://roedor.xyz/Sr_Regio/tp.php?c=2242&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2243
-http://roedor.xyz/Sr_Regio/tp.php?c=2243&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2244
-http://roedor.xyz/Sr_Regio/tp.php?c=2244&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2245
-http://roedor.xyz/Sr_Regio/tp.php?c=2245&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2246
-http://roedor.xyz/Sr_Regio/tp.php?c=2246&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2247
-http://roedor.xyz/Sr_Regio/tp.php?c=2247&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2248
-http://roedor.xyz/Sr_Regio/tp.php?c=2248&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,once hd
-http://roedor.xyz/Sr_Regio/tp.php?c=2249&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2252
-http://roedor.xyz/Sr_Regio/tp.php?c=2252&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2253
-http://roedor.xyz/Sr_Regio/tp.php?c=2253&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2254
-http://roedor.xyz/Sr_Regio/tp.php?c=2254&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2255
-http://roedor.xyz/Sr_Regio/tp.php?c=2255&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ESTRELLAS
-http://roedor.xyz/Sr_Regio/tp.php?c=2256&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,CINCO
-http://roedor.xyz/Sr_Regio/tp.php?c=2257&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ESTRELLAS
-http://roedor.xyz/Sr_Regio/tp.php?c=2260&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2261
-http://roedor.xyz/Sr_Regio/tp.php?c=2261&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ESTRELLAS
-http://roedor.xyz/Sr_Regio/tp.php?c=2266&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,CINCO
-http://roedor.xyz/Sr_Regio/tp.php?c=2267&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,LAS ESTRELLAS
-http://roedor.xyz/Sr_Regio/tp.php?c=2268&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,CINCO
-http://roedor.xyz/Sr_Regio/tp.php?c=2269&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2271
-http://roedor.xyz/Sr_Regio/tp.php?c=2271&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,A MAS
-http://roedor.xyz/Sr_Regio/tp.php?c=2278&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2287
-http://roedor.xyz/Sr_Regio/tp.php?c=2287&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2289
-http://roedor.xyz/Sr_Regio/tp.php?c=2289&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,MULTIMEDIOS
-http://roedor.xyz/Sr_Regio/tp.php?c=2305&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2328
-http://roedor.xyz/Sr_Regio/tp.php?c=2328&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2336
-http://roedor.xyz/Sr_Regio/tp.php?c=2336&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,ONCE HD
-http://roedor.xyz/Sr_Regio/tp.php?c=2354&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2358
-http://roedor.xyz/Sr_Regio/tp.php?c=2358&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2360
-http://roedor.xyz/Sr_Regio/tp.php?c=2360&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,TOTAL PLAY
-http://roedor.xyz/Sr_Regio/tp.php?c=2361&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2362
-http://roedor.xyz/Sr_Regio/tp.php?c=2362&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2363
-http://roedor.xyz/Sr_Regio/tp.php?c=2363&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2364
-http://roedor.xyz/Sr_Regio/tp.php?c=2364&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2365
-http://roedor.xyz/Sr_Regio/tp.php?c=2365&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,2366
-http://roedor.xyz/Sr_Regio/tp.php?c=2366&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,XXX
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=2368&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,xxx
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=2369&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
- 
-#EXTINF:-1,NATGEOKIDS
-
-  http://roedor.xyz/Sr_Regio/tp.php?c=2373&p=3&k=srregio&f=.m3u8?tvpremiumhd.com
