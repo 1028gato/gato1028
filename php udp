@@ -1,0 +1,30 @@
+$ip = '224.1.4.'
+
+$prefijo = ':4'
+
+for $i = 1 to 254
+
+    $tamano = StringLen ( $i )
+
+    if $tamano = 1 Then
+        $octeto = '00' & $i
+
+        ElseIf $tamano = 2 Then
+        $octeto = '0' & $i
+
+        ElseIf $tamano = 3 Then
+        $octeto = '' & $i
+
+    EndIf
+
+$baja = InetGet ('http://udpxy:7781/udp/' & $ip & $i & $prefijo & $octeto, 'video.mp4', 1, 1)
+Sleep (3000)
+InetClose ($baja)
+Sleep (500)
+$tamArchivo = FileGetSize ('video.mp4')
+if $tamArchivo > 20000 Then
+    ConsoleWrite ('#EXTINF:-1 tvg-shift=0 tvg-name="CANAL ' & $octeto & '" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png", CANAL ' & $octeto &  @CRLF)
+    ConsoleWrite ('http://udpxy:7781/udp/' & $ip & $i & $prefijo & $octeto & @CRLF)
+    FileDelete ('video.mp4')
+    EndIf
+Next
